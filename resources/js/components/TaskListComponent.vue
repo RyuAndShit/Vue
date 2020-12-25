@@ -73,7 +73,7 @@
           </td>
           <td>
             <router-link
-              v-bind:to="{ name: 'task.edit', params: { taskId: 2 } }"
+              v-bind:to="{ name: 'task.edit', params: { taskId: 3 } }"
             >
               <button class="btn btn-success">Edit</button>
             </router-link>
